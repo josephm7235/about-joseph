@@ -1,7 +1,7 @@
 Joseph Medrano
 Josephm7235@hstat.org
-Hstat- high school of telecommunication 
-Student age 16. Takes software engineering
+ Hstat- high school of telecommunication 
+ Student age 16. Takes software engineering
 Schedule 
 1. Gym
 2. software
@@ -11,3 +11,4 @@ Schedule
 6. Lunch
 7. Bio
 8. Study hall
+Love playing overwatch and drawing on my free time also really like food
