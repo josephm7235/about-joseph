@@ -1,9 +1,9 @@
-## *Joseph Medrano*
+## **Joseph Medrano**
 ---
 Josephm7235@hstat.org  
 Hstat- high school of telecommunication 
 Im a student at _hstat_ age 16 in my junior year.  
-Third year of being apart of the *software engineering course*   
+Third year of being apart of the **software engineering course**   
 [click here to view my sep 11 portfolio](https://sites.google.com/a/hstat.org/josephm7235sep11/)
 #### Schedule 
 ---
